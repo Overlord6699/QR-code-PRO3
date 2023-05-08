@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.QRcode" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/theme_teal</item>
+        <item name="colorPrimaryVariant">@color/theme_teal</item>
+        <item name="colorOnPrimary">@color/theme_dark</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/theme_teal</item>
+        <item name="colorSecondaryVariant">@color/theme_teal</item>
+        <item name="colorOnSecondary">@color/theme_dark</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/theme_dark</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
